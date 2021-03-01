@@ -12,7 +12,7 @@ There are so many electronic device manufacturers like Apple Inc has a global pr
 * Moving products in the distribution chain
 * Multiple views
 ## Getting started
-clone repo: https://github.com/210104-msbi-reston/BryanBlueP1.git
-load the backup file onto your SQL server to get the database setup
+Clone repo: https://github.com/210104-msbi-reston/BryanBlueP1.git
+Load the backup file onto your SQL server to get the database setup
 ## Usage
-use the demo file to for example queries/stored procedures
+Use the demo file to for example queries/stored procedures
